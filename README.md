@@ -1,1 +1,1 @@
-#EDAT lista ligada
+EDAT lista ligada
